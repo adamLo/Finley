@@ -25,6 +25,11 @@
 /* Begin PBXFileReference section */
 		196822A41D251FB60036218F /* BloomBergC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BloomBergC; sourceTree = BUILT_PRODUCTS_DIR; };
 		196822A71D251FB60036218F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		196822AE1D25205A0036218F /* input001.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = input001.txt; path = ../../../../Downloads/test_cases_8ag9roger2t/input001.txt; sourceTree = "<group>"; };
+		196822AF1D25205A0036218F /* input002.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = input002.txt; path = ../../../../Downloads/test_cases_8ag9roger2t/input002.txt; sourceTree = "<group>"; };
+		196822B01D25205A0036218F /* input003.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = input003.txt; path = ../../../../Downloads/test_cases_8ag9roger2t/input003.txt; sourceTree = "<group>"; };
+		196822B11D25205A0036218F /* input004.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = input004.txt; path = ../../../../Downloads/test_cases_8ag9roger2t/input004.txt; sourceTree = "<group>"; };
+		196822B21D25205A0036218F /* input005.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = input005.txt; path = ../../../../Downloads/test_cases_8ag9roger2t/input005.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +63,11 @@
 			isa = PBXGroup;
 			children = (
 				196822A71D251FB60036218F /* main.m */,
+				196822AE1D25205A0036218F /* input001.txt */,
+				196822AF1D25205A0036218F /* input002.txt */,
+				196822B01D25205A0036218F /* input003.txt */,
+				196822B11D25205A0036218F /* input004.txt */,
+				196822B21D25205A0036218F /* input005.txt */,
 			);
 			path = BloomBergC;
 			sourceTree = "<group>";
